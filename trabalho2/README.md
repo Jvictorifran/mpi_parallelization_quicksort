@@ -57,4 +57,4 @@ O código é dividido em várias funções principais:
 A eficiência da paralelização pode variar com o tamanho do vetor e o número de processos utilizados.
 - Este projeto é uma base para exploração e pode ser estendido para incluir outras formas de paralelismo, como o uso de threads com OpenMP em conjunto com MPI.
 
-Projeto feito em parceria com: [jvictorifran](https://github.com/Jvictorifran)!
+Projeto feito em parceria com: [viniciuzsk](https://github.com/viniciuzsk)!
